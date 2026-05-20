@@ -80,6 +80,8 @@ This project helped me practice and improve my understanding of:
 - Modern typography usage
 - Spacing consistency
 - Card-based design systems
+- Preventing layout shifting issues in image cards
+- Using placeholder background colors before assets load for smoother UI experience
 
 ---
 
